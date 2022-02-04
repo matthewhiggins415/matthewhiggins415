@@ -1,5 +1,6 @@
-# Hello Friends 👋🏻
 ---
+# Hello Friends 👋🏻
+
 I am a fullstack developer with a focus on frontend with React. I get really excited with new ideas and challenges. Turning complex into simplicity is what makes me happiest. Have a great day! 
 
 ## My Hobbies Include: 
