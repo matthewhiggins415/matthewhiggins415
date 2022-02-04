@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello Friends 👋🏻
+---
+I am a fullstack developer with a focus on frontend with React. I get really excited with new ideas and challenges. Turning complex into simplicity is what makes me happiest. Have a great day! 
 
-<!--
-**matthewhiggins415/matthewhiggins415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Hobbies Include: 
+ - 🏄🏼‍♂️ surfing 
+ - 🏐 volleyball
+ - 🏔 hiking 
+ - 🌏 traveling (🇨🇴 🇮🇩 🇹🇭 🇻🇳 🇲🇽 🇱🇦 🇵🇭)
+ 
 
-Here are some ideas to get you started:
+## Learn more at: 
+ - 🙎🏼‍♂️ [LinkedIn](https://www.linkedin.com/in/mhiggie/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Fun Stats: 
+![Github stats](https://github-readme-stats.vercel.app/api?username=matthewhiggins415)
