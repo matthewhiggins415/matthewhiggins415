@@ -1,7 +1,7 @@
 ---
 # Hello Friends 👋🏻
 
-I am a fullstack developer with a focus on frontend with React. I get really excited with new ideas and challenges. Have a great day! 
+I am a fullstack developer with a focus on frontend with React. I get really excited with new ideas and challenges. I also have experience in technology sales and my overall goal is to be a people person with great developer skills! 
 
 ## My Hobbies Include: 
  - 🏄🏼‍♂️ surfing 
