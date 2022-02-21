@@ -7,6 +7,7 @@ I am a fullstack developer with a focus on frontend with React. I get really exc
  - 🏄🏼‍♂️ surfing 
  - 🧠 learning
  - 🏐 volleyball
+ - 🖥 programming 
  - 🏔 hiking 
  - 🌏 traveling (🇨🇴 🇮🇩 🇹🇭 🇻🇳 🇲🇽 🇱🇦 🇵🇭)
  
