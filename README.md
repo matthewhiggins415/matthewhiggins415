@@ -1,7 +1,7 @@
 ---
 # Hello Friends 👋🏻
 
-I am a fullstack developer with a focus on MERN stack. I get really excited with new ideas and challenges. I also have experience in technology sales and my overall goal is to be a people person with great developer skills! 
+I am a fullstack developer with a focus on MERN stack. I get really excited with new ideas and challenges. I really enjoy programming and coding because it is creative, challenging, and the computer always does what you tell it to do (unfortunately at times).
 
 ## About me: 
   🏅  Goal for 2022: Get a job doing what I love!\
