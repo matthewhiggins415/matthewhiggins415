@@ -32,7 +32,7 @@ I am a fullstack developer with a focus on MERN stack. I get really excited with
  
 ## Connect with me: 
  - 🙎🏼‍♂️ [LinkedIn](https://www.linkedin.com/in/mhiggie/)
- - 📫  matthiggins.louis@gmail.com 
+ - 📫  mhiggins.louis@gmail.com 
 
 ## Some Fun Stats: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=matthewhiggins415)
