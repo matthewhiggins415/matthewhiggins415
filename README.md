@@ -24,6 +24,7 @@ I am a fullstack developer with a focus on MERN stack. I get really excited with
  - APIs
  
 ## Technologies I am learning: 
+ - Algorithms & Data Structures
  - Python
  - SQL
  - Django 
