@@ -6,7 +6,7 @@ I am a fullstack developer with a focus on MERN stack. I get really excited with
 ## About me: 
   🏅  Goal for 2022: Get a job doing what I love!\
   🖥  Currently working on a fullstack project using React and Express that integrates Stripe.\
-  🏄🏼‍♂️  Favorite hobbies are surfing and traveling. 🇨🇴 🇮🇩 🇹🇭 🇻🇳 🇲🇽 🇱🇦 🇵🇭
+  🏄🏼‍♂️  Favorite hobbies are surfing and ..surfing
 
 ## Technologies I know: 
  - HTML
