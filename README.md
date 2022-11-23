@@ -13,28 +13,28 @@ I am a fullstack developer with a focus on MERN stack. I get really excited with
 
 Just built that ecomm site with stripe integration. Currently, building a e-learning site that will use stripe subscriptions. Hoping to make another project that will use Plaid to analyze my personal spending in a really interactive way.  
 
-## Technologies I know: 
- - HTML
- - JavaScript 
- - jQuery
+## Technologies I know:
  - React
  - Redux 
- - CSS
  - Styled-Components 
  - Framer-Motion
- - Node
  - MongoDB
  - Mongoose
  - Express
+ - HTML
+ - JavaScript 
+ - jQuery
+ - CSS
+ - Node
  - APIs
  
 ## Technologies I am learning: 
- - Algorithms & Data Structures
- - Python
- - SQL
- - Django 
- - Rust
- - Postgres
+ - Stripe
+ - Plaid 
+ - ApostropheCMS
+ - MacOS/advanced command line 
+ - advanced git/github workflows
+ - firebase
  
 ## Connect with me: 
  - 🙎🏼‍♂️ [LinkedIn](https://www.linkedin.com/in/mhiggie/)
