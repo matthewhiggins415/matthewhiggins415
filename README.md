@@ -6,7 +6,7 @@ I am a fullstack developer with a focus on MERN stack. I get really excited with
 ## About me: 
  🏅  Goals for 2022: <br />
       1. Get a job doing what I enjoy in software development ✅ <br />
-      2. Create a deploy my own [ecomm site](https://www.thesimplecat.com/){:target="_blank"} ✅ <br />
+      2. Create a deploy my own [ecomm site](https://www.thesimplecat.com/) ✅ <br />
       3. Create and deploy a fullstack platform to teach others on how to create fullstack, deployed sites <br />
       <br />
   🏄🏼‍♂️  Favorite hobby is surfing 
