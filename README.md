@@ -9,8 +9,10 @@ I am a fullstack developer with a focus on MERN stack. I get really excited with
       2. Create a deploy my own [fullstack ecomm site](https://www.thesimplecat.com/) ✅ <br />
       3. Create and deploy a fullstack platform to teach others on how to create fullstack, deployed sites <br />
       <br />
-  🖥  Currently working on a fullstack project using React and Express that integrates Stripe.\
+
   🏄🏼‍♂️  Favorite hobbies are surfing and ..surfing
+
+Just built that ecomm site with stripe integration. Currently, building a e-learning site that will use stripe subscriptions. Hoping to make another project that will use Plaid to analyze my personal spending in a really interactive way.  
 
 ## Technologies I know: 
  - HTML
