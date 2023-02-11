@@ -1,17 +1,19 @@
 ---
 # Hello Friends 👋🏻
 
-I am a fullstack developer with a focus on MERN stack. I get really excited with new ideas and challenges. 
+I am a fullstack web developer with a focus on MERN stack. I get really excited with new ideas and challenges. 
 
-## About me: 
+## Trajectory: 
  🏅  Goals for 2022: <br />
       1. Get a job doing what I enjoy in software development ✅ <br />
       2. Create a deploy my own [ecomm site](https://www.thesimplecat.com/) ✅ <br />
-      3. Create and deploy a fullstack platform to teach others on how to create fullstack, deployed sites <br />
+      3. Create and deploy my own [platform](https://www.mernguide.com/) to teach others on how to create fullstack, deployed sites ✅ <br />
+      
+  🏅  Goals for 2023: <br />
+      1. Create a youtube channel for web development <br />
+      2. 200+ monthly users at mernstack.com <br />
+      3. Add another cool project to mernguide - one that uses plaid to measure expenses in realtime. <br />
       <br />
-  🏄🏼‍♂️  Favorite hobby is surfing 
-
-Just built that ecomm site with stripe integration. Currently, building a e-learning site that will use stripe subscriptions. Hoping to make another project that will use Plaid to analyze my personal spending in a really interactive way.  
 
 ## Technologies I know:
  - React
@@ -36,9 +38,10 @@ Just built that ecomm site with stripe integration. Currently, building a e-lear
  - advanced git/github workflows
  - firebase
  
-## Connect with me: 
+## Connect: 
  - 🙎🏼‍♂️ [LinkedIn](https://www.linkedin.com/in/mhiggie/)
- - 📫  mhiggins.louis@gmail.com 
+ - 📫  mhiggins.louis@gmail.com
+ - 👨🏼‍💻 [my site](https://www.matthigginsdev.com) 
 
 ## Some Fun Stats: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=matthewhiggins415)
