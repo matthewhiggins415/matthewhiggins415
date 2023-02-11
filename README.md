@@ -11,7 +11,7 @@ I am a fullstack web developer with a focus on MERN stack. I get really excited 
       
   🏅  Goals for 2023: <br />
       1. Create a youtube channel for web development <br />
-      2. 200+ monthly users at mernstack.com <br />
+      2. 200+ monthly users at mernguide.com <br />
       3. Add another cool project to mernguide - one that uses plaid to measure expenses in realtime. <br />
       <br />
 
