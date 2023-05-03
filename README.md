@@ -6,12 +6,12 @@ I am a fullstack web developer with a focus on MERN stack. I get really excited 
 ## Trajectory: 
  🏅  Goals for 2022: <br />
       1. Get a job doing what I enjoy in software development ✅ <br />
-      2. Create a deploy my own [ecomm site](https://www.thesimplecat.com/) ✅ <br />
-      3. Create and deploy my own [platform](https://www.mernguide.com/) to teach others on how to create fullstack, deployed sites ✅ <br />
+      2. Create a deploy my own [ecomm site](https://www.gallacticcat.com/) ✅ <br />
+      3. Create and deploy my own [platform](https://www.codewithfriends.co) to teach others on how to create fullstack, deployed sites ✅ <br />
       
   🏅  Goals for 2023: <br />
       1. Create a youtube channel for web development <br />
-      2. 200+ monthly users at [mernguide.com](https://www.mernguide.com/) <br />
+      2. 200+ monthly users at [mernguide.com](https://www.codewithfriends.co) <br />
       3. Add another cool project to mernguide - one that uses plaid to measure expenses in realtime. <br />
       <br />
 
