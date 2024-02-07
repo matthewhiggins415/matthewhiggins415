@@ -10,10 +10,7 @@ I am a fullstack web developer with a focus on MERN stack. I get really excited 
       3. Create and deploy my own [platform](https://www.codewithfriends.co) to teach others on how to create fullstack, deployed sites ✅ <br />
       
   🏅  Goals for 2023: <br />
-      1. Create a youtube channel for web development <br />
-      2. 200+ monthly users at [codewithfriends.co](https://www.codewithfriends.co) <br />
-      3. Add another cool project to mernguide - one that uses plaid to measure expenses in realtime. <br />
-      <br />
+      1. Explore personal coding projects and build skill/portfolio.
 
 ## Technologies I know:
  - React
